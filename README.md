@@ -1,16 +1,10 @@
 # flutter_login_app
 
-A new Flutter project.
+Create by Sirichok Boonpheak
 
-## Getting Started
+## Sceen UI
+<img src="https://github.com/KaitoZan/thailand_travel_project/assets/144052345/d89b226b-aac3-4d39-91ce-33939a990d48" width="150px">
+<img src="https://github.com/KaitoZan/thailand_travel_project/assets/144052345/b14c3a1f-2985-42e6-b78b-dc7a397d7414" width="150px">
+<img src="https://github.com/KaitoZan/thailand_travel_project/assets/144052345/71a3c417-1814-443d-b348-b56579836570" width="150px">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
